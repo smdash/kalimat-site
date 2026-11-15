@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://smdash.github.io/kalimat-site/sitemap.xml
